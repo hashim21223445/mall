@@ -34,7 +34,7 @@
         <docker.host>http://192.168.3.101:2375</docker.host>
         <docker.maven.plugin.version>0.40.2</docker.maven.plugin.version>
         <pagehelper-starter.version>1.4.5</pagehelper-starter.version>
-        <pagehelper.version>5.3.2</pagehelper.version>
+        <pagehelper.version>6.1.0</pagehelper.version>
         <druid.version>1.2.14</druid.version>
         <hutool.version>5.8.9</hutool.version>
         <springfox-swagger.version>3.0.0</springfox-swagger.version>
